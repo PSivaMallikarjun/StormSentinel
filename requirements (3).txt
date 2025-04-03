@@ -1,0 +1,10 @@
+gradio
+transformers
+torch
+numpy
+pandas
+matplotlib
+huggingface_hub
+geopy
+twilio
+folium
